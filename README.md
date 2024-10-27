@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Valand</h1>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="coding" width="400">
 A passionate frontend developer from Ahmedabad, Gujarat <br>
-I'm currently learning Front End languages, Project management, <br> Documentation and Generation.<br>
+I'm currently learning Front End languages, Project management, Documentation and Generation.<br>
 
 
 
