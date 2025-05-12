@@ -4,9 +4,9 @@
 I'm currently learning Front End languages, Project management, Documentation and Generation. </h3><br>
 
 <h3>Mini Projects</h3> <br>
-<a href="[https://devvaland.github.io/Weather-App-API-of-JS/](https://devvaland.github.io/Tailwind-CSS-Landing-Page/)">Tailwind Landing Page</a>
+<a href="https://devvaland.github.io/Tailwind-CSS-Landing-Page/">Tailwind Landing Page</a>
 <a href="https://devvaland.github.io/Weather-App-API-of-JS/">Weather app</a> 
-<a href="[https://devvaland.github.io/Weather-App-API-of-JS/](https://devvaland.github.io/To-Do-List-of-JS/)">TODO list app</a>
+<a href="https://devvaland.github.io/To-Do-List-of-JS/">TODO list app</a>
 
 ## 🌐 Socials: [![](https://visitcount.itsvg.in/api?id=devvaland&icon=0&color=1)](https://visitcount.itsvg.in)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DevB.Valand/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-valand-983b26259/) <br> <br>
