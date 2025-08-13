@@ -9,7 +9,7 @@ I'm currently learning Front End languages, Project management, Documentation an
 <a href="https://devvaland.github.io/To-Do-List-of-JS/">TODO list app</a>
 
 ## 🌐 Socials: [![](https://visitcount.itsvg.in/api?id=devvaland&icon=0&color=1)](https://visitcount.itsvg.in)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DevB.Valand/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-valand-983b26259/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/cjSqAfezBa/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/DevB.Valand/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-valand-983b26259/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/DevValand/)
 
 
 # 💻 Tech Stack:
