@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Valand</h1>
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="coding" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="coding" width="400px">
 I’m a <b>Frontend Developer </b> with a passion for creating clean, user-friendly websites and web apps. I'm currently expanding my skills to become a <b> Full Stack Developer </b> and working on building out both the front and back ends of applications.
 
 <h3>Mini Projects</h3> <br>
